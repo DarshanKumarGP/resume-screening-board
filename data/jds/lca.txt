@@ -1,0 +1,42 @@
+LCA Consultant (Chennai based/relocate)
+
+About the organization:
+Our client is a leading global sustainability consultancy based in Pune, serving the manufacturing, construction, healthcare, and corporate sectors.
+
+Location: Chennai (onsite)
+
+Requirements:
+Their client needs a dedicated LCA consultant to support sustainability goals by building Life Cycle Inventory (LCI) datasets, running LCA studies, and comparing results against industry peers. The candidate needs to relocate to Chennai for this role. Company can help with relocation.
+
+Key Responsibilities:
+- Data Collection: collect and compile Life Cycle Inventory (LCI) data.
+- Data Validation and Quality Control: validate and standardize all LCI data for accuracy, completeness, and consistency. Any missing data must be documented thoroughly.
+- LCA Modelling: build the LCI model using life cycle inventory data collected in the software.
+- Assumptions: all assumptions made during LCA modelling must be clearly documented so datasets and models are traceable and audit-ready.
+- Operational Data: collaborate with the client's cross-functional teams to gather operational data, including plant level assembly details, resources, energy use, and complete logistics data (inbound/outbound transportation modes, distances and supplier logistics).
+- Public Benchmarking: collect and compile benchmarking data from public sources, including databases, industry reports, research papers, academic studies, regulatory filings, and previous LCA research.
+- Duties: adhere to all project deadlines and deliver high-quality work.
+
+Requirements:
+- Experience: 2 to 3 years of experience running Life Cycle Assessment (LCA) projects independently.
+- Software Expertise: hands-on experience using either GaBi or SimaPro software.
+- Project History: completed at least 3 LCA projects.
+- Standards: strictly follow ISO 14040 and ISO 14044 guidelines for all project work.
+- Onsite Location: work onsite at the client location with their sustainability team.
+- Office Rules: follow the client's workplace rules, including working full-time from the office, following work hours, and tracking attendance.
+- Stakeholder Management: represent our client and maintain long-term relationships with customers.
+
+Candidate Profile:
+- Education: Bachelor's or Master's (environmental domain highly desired).
+- Language: fluent spoken and written English.
+- Skills: experience in Life Cycle Assessment study.
+- Attributes: flexible, self-motivating, and able to manage multiple tasks.
+- Travel: high willingness to travel extensively across India.
+- Commitment: minimum commitment of 1 year.
+
+Preferred Qualifications:
+- Prior experience in Life Cycle Assessment (LCA) and Environmental Product Declaration (EPD).
+- Basic understanding of business finance and accounting.
+- Proactive initiative to learn and ideate new solutions in a dynamic team.
+
+Compensation: as per industry level, onsite at client location.

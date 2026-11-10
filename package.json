@@ -1,0 +1,23 @@
+{
+  "name": "resume-screener",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "ingest": "node scripts/ingest.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "dependencies": {
+    "mammoth": "^1.13.0",
+    "next": "^15.5.29",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "unpdf": "^1.9.1"
+  },
+  "engines": {
+    "node": ">=18.18"
+  }
+}
